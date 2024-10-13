@@ -9,4 +9,4 @@
 1. Does the page look the same as it looks when running on your local computer? If not, why not? What can you do to fix it? The youtube videos did not work on my local computer because embedded content like that may not work sometimes.
 1. Use git to stage your changes, commit your changes, and push your changes to your remote repository.
 1. Tell your repository to deploy to github pages (see the screenshot and caption below it in the `figure` in `index.html`)
-1. Does the page look the same as it looks when running on your local computer? If not, why not? What can you do to fix it?
+1. Does the page look the same as it looks when running on your local computer? If not, why not? What can you do to fix it? No it does not look the same the youtube videos loaded this time.
